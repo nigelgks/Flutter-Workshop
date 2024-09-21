@@ -1,4 +1,4 @@
-# flutter_application_1
+# Flutter Workshop - MBOT x HeiTech x MBOT-UTP-SC
 
 A new Flutter project.
 
